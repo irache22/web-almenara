@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "name": "01jacuzzipersona.jpg",
+            "info": "jacuzzi exterior con vistas"
+        },
+        {
+            "name": "02jacuzziexterior.jpg",
+            "info": "Jardín privado con vistas"
+        },
+        {
+            "name": "03saloncuadro.jpg",
+            "info": "salón con salida al jardín"
+        },
+        {
+            "name": "04jardinrelax.jpg",
+            "info": "Jardín privado con tumbonas"
+        },
+        {
+            "name": "05habitacionprincipal.jpg",
+            "info": "cama grande romántica"
+        },
+        {
+            "name": "07chimeneapellets2.jpg",
+            "info": "salón con chimenea"
+        },
+        {
+            "name": "08salon3.jpg",
+            "info": "salón confortable"
+        },
+        {
+            "name": "09saloncafetera.jpg",
+            "info": "salón comedor con vistas"
+        },
+        {
+            "name": "10salondesayuno.jpg",
+            "info": "mesa comedor familiar"
+        },
+        {
+            "name": "11salonjardin.jpg",
+            "info": "salón con acceso al jardin"
+        },
+        {
+            "name": "12salonpanoramico.jpg",
+            "info": "amplio salón para una familia"
+        },
+        {
+            "name": "13salonsofas.jpg",
+            "info": "amplio salón"
+        },
+        {
+            "name": "14habitacióndoble.jpg",
+            "info": "habitación con camas individuales"
+        },
+        {
+            "name": "15aseocompelto.jpg",
+            "info": "cuarto de baño con ducha"
+        },
+        {
+            "name": "16aseocompleto2.jpg",
+            "info": "baño completo"
+        },
+        {
+            "name": "17jacuzzidron.jpg",
+            "info": "vistas a las montañas"
+        },
+        {
+            "name": "18jacuzzifamiliar.jpg",
+            "info": "jacuzzi uso verano e invierno"
+        },
+        {
+            "name": "19sofasjardin.jpg",
+            "info": "zona chill out privada"
+        },
+        {
+            "name": "20sofasjardin2.jpg",
+            "info": "zona chill out"
+        },
+        {
+            "name": "21zonachillout.jpg",
+            "info": "amplio jardín con mobiliario"
+        }
+    ]
+}

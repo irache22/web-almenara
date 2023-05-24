@@ -1,0 +1,108 @@
+{
+    "data": [
+        {
+            "name": "01jaccuziazul.jpg",
+            "info": "Jacuzzi con cromoterapia"
+        },
+        {
+            "name": "02jacuzziprimerplano.jpg",
+            "info": "bañera redonda para 2 personas"
+        },
+        {
+            "name": "03cocinaequipada.jpg",
+            "info": "amplia cocina"
+        },
+        {
+            "name": "04armariohabitacion.jpg",
+            "info": "habitación romántica"
+        },
+        {
+            "name": "05parejavistas.jpg",
+            "info": "Terraza mirador con vistas"
+        },
+        {
+            "name": "06camamatrimonio.jpg",
+            "info": "cama de matrimonio"
+        },
+        {
+            "name": "07salon2.jpg",
+            "info": "amplio salón"
+        },
+        {
+            "name": "08salonchimenea.jpg",
+            "info": "chimenea de pellets"
+        },
+        {
+            "name": "09salonmesa.jpg",
+            "info": "comedor con vistas"
+        },
+        {
+            "name": "10salonsofas.jpg",
+            "info": "salón con aire acondicionado"
+        },
+        {
+            "name": "11salonuno.jpg",
+            "info": "amplio salón con smart TV"
+        },
+        {
+            "name": "12desayuno.jpg",
+            "info": "alojamiento romántico"
+        },
+        {
+            "name": "13salahidromasaje.jpg",
+            "info": "bañera redonda para dos"
+        },
+        {
+            "name": "14habitacionprincipal.jpg",
+            "info": "cama de matrimonio"
+        },
+        {
+            "name": "15desayunoterraza.jpg",
+            "info": "terraza mirador con mesa"
+        },
+        {
+            "name": "16mesaterraza.jpg",
+            "info": "mesa terraza con vistas"
+        },
+        {
+            "name": "17parejaterraza.jpg",
+            "info": "terraza privada"
+        },
+        {
+            "name": "18terrazaaperitivo.jpg",
+            "info": "picoteo en la terraza para dos"
+        },
+        {
+            "name": "19terrazacervezas.jpg",
+            "info": "hora del aperitivo"
+        },
+        {
+            "name": "20terrazaromantica.jpg",
+            "info": "terraza privada con intimidad"
+        },
+        {
+            "name": "21terrazavistas.jpg",
+            "info": "vistas a la naturaleza"
+        },
+        {
+            "name": "22vistamontaña.jpg",
+            "info": "vistas a la Sierra"
+        },
+        {
+            "name": "23vistapanaramica.jpg",
+            "info": "vistas a las montañas"
+        },
+        {
+            "name": "24vistasierra.jpg",
+            "info": "vistas relajantes"
+        },
+        {
+            "name": "25arcoiris.jpg",
+            "info": "vista del arcoiris"
+        },
+        {
+            "name": "26aseo.jpg",
+            "info": "cuarto de baño"
+        }
+    ]
+}
